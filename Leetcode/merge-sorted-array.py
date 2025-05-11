@@ -30,7 +30,7 @@ class Solution:
             A[idx] = B[j]
             j -= 1
             idx -= 1 
-
+# Input
 A = [1, 2, 3, 0, 0, 0]
 m = 3
 B = [2, 5, 6]
