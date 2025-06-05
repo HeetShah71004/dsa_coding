@@ -65,4 +65,4 @@ matrix = [
     [23, 30, 34, 60]
 ]
 target = 31
-print(sol.searchMatrix(matrix, target))  # Output: True
+print(sol.searchMatrix(matrix, target))  # Output: False
