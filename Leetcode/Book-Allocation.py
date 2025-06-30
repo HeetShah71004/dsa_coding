@@ -39,3 +39,5 @@ n = 4
 m = 2
 
 print(allocate_books(arr, n, m))  # Output: 6
+
+# This code implements a solution to the book allocation problem using binary search.
